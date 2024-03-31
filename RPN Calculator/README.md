@@ -27,7 +27,7 @@ To run the project, you can either execute the provided executable file or follo
    Once compiled, you can execute the program by running `./rpcalc` in your terminal.
 
 ## Accepted Inputs
-   Accepted Inputs cover numbers and floating point numbers.__
+   Accepted Inputs cover numbers and floating point numbers.  
    Accepted symbols include + (for sum), - (for subtract), * (for multipy), / (for division), n (for negative), ^ (for power), and sqrt (for squar root).
    Examples of accepted inputs:
    ```
