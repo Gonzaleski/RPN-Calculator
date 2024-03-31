@@ -27,7 +27,8 @@ To run the project, you can either execute the provided executable file or follo
    Once compiled, you can execute the program by running `./boolcalc` in your terminal.
 
 ## Accepted Inputs
-   Accepted Inputs cover both capital and lower-case letters for true and false as well as 0 and 1.
+   Accepted Inputs cover both capital and lower-case letters for true and false as well as 0 and 1.__
+   
    Accepted symbols include & (for and), | (for or), and ! (for not).
    Examples of accepted inputs:
    ```
