@@ -1,4 +1,4 @@
-# Introduction-to-Compilers
+RPN-Calculator
 This repository contains two Reverse Polish Notation (RPN) calculators implemented in C: one for boolean algebra expressions and the other for arithmetic expressions.
 
 ### RPN Boolean Calculator
