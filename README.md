@@ -34,7 +34,3 @@ The RPN Calculator evaluates arithmetic expressions in postfix notation. It supp
 #### Usage
 
 Follow the instructions provided in the README file specific to the RPN Calculator to compile and run the program.
-
-### Contributors
-
-- [Arad Soutehkeshan](https://github.com/Gonzaleski)
