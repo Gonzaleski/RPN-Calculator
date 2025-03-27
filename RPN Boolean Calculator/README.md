@@ -33,7 +33,7 @@ To run the project, you can either execute the provided executable file or follo
    Examples of accepted inputs:
    ```
    TruE FAlsE & ! 0 |
-   FaLSE ture | 1 & ! FALSe |
+   FaLSE true | 1 & ! FALSe |
    ```
 
 ## Outputs
